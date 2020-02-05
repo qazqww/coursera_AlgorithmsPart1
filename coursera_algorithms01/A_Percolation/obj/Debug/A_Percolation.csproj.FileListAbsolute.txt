@@ -1,0 +1,7 @@
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\bin\Debug\A_Percolation.exe.config
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\bin\Debug\A_Percolation.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\bin\Debug\A_Percolation.pdb
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\obj\Debug\A_Percolation.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\obj\Debug\A_Percolation.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\obj\Debug\A_Percolation.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\A_Percolation\obj\Debug\A_Percolation.pdb

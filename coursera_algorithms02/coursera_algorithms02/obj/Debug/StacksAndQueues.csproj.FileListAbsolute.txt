@@ -1,0 +1,14 @@
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.exe.config
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.pdb
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\obj\Debug\StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\obj\Debug\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\obj\Debug\coursera_algorithms02.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms02\coursera_algorithms02\obj\Debug\coursera_algorithms02.pdb
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.exe.config
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.exe
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\bin\Debug\coursera_algorithms02.pdb
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\obj\Debug\StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\obj\Debug\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\obj\Debug\coursera_algorithms02.exe
+C:\Users\qazqw\Documents\sources\AlgorithmsPart1\coursera_algorithms02\coursera_algorithms02\obj\Debug\coursera_algorithms02.pdb

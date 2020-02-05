@@ -1,0 +1,14 @@
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.exe.config
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.exe
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.pdb
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.exe
+C:\Users\qazqw\Documents\sources\coursera_Dynamic Connectivity\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.pdb
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.exe.config
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\bin\Debug\coursera_Dynamic Connectivity.pdb
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\coursera_Dynamic Connectivity\obj\Debug\coursera_Dynamic Connectivity.pdb

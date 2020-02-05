@@ -1,0 +1,7 @@
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\bin\Debug\AnalysisOfAlgorithms.exe.config
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\bin\Debug\AnalysisOfAlgorithms.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\bin\Debug\AnalysisOfAlgorithms.pdb
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\obj\Debug\AnalysisOfAlgorithms.csprojAssemblyReference.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\obj\Debug\AnalysisOfAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\obj\Debug\AnalysisOfAlgorithms.exe
+C:\Users\qazqw\Documents\sources\coursera_algorithms01\AnalysisOfAlgorithms\obj\Debug\AnalysisOfAlgorithms.pdb
